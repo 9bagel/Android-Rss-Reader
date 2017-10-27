@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DevbyRssReader</string>
+    <string name="action_settings">Settings</string>
+    <string name="pdWait">Please wait</string>
+    <string name="pdText">Downloading RSS</string>
+    <string name="noInternet">Please сonnect to the Internet.</string>
+    <string name="itemReload">Reload RSS feed</string>
+    <string name="errorHost">Host is not responding</string>
+
+</resources>
